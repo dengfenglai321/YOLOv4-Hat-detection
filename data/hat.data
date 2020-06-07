@@ -1,0 +1,4 @@
+classes= 2
+train=data/hattrain.txt
+valid=data/hatvalid.txt
+names=data/hat.names
